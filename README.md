@@ -20,7 +20,19 @@ Zoom: 100%
 Escreva os dados acima na notação JSON. Para esta atividade utilize o bloco de notas, salve o arquivo com o nome: localização_google_sp.json
 
 -----------resolução-----------
+*NA PAGINA INICIAL*
 [localização_google_sp.json](https://github.com/user-attachments/files/15780184/localizacao_google_sp.json)
+
+
+
+
+
+
+
+
+
+
+
 
  -ETAPA 2
 
@@ -47,7 +59,7 @@ FuncionarioID (FK)
 Email
 
    --JSON
-   [Uploading 1.json…]
+  *NA PAGINA INICIAL*
    
    -- Modelo Relacional
 
